@@ -1,0 +1,11 @@
+C:\Users\cjone\source\repos\DataTableTest\DataTableTest\bin\Debug\netcoreapp2.2\DataTableTest.deps.json
+C:\Users\cjone\source\repos\DataTableTest\DataTableTest\bin\Debug\netcoreapp2.2\DataTableTest.runtimeconfig.json
+C:\Users\cjone\source\repos\DataTableTest\DataTableTest\bin\Debug\netcoreapp2.2\DataTableTest.runtimeconfig.dev.json
+C:\Users\cjone\source\repos\DataTableTest\DataTableTest\bin\Debug\netcoreapp2.2\DataTableTest.dll
+C:\Users\cjone\source\repos\DataTableTest\DataTableTest\bin\Debug\netcoreapp2.2\DataTableTest.pdb
+C:\Users\cjone\source\repos\DataTableTest\DataTableTest\obj\Debug\netcoreapp2.2\DataTableTest.csprojAssemblyReference.cache
+C:\Users\cjone\source\repos\DataTableTest\DataTableTest\obj\Debug\netcoreapp2.2\DataTableTest.csproj.CoreCompileInputs.cache
+C:\Users\cjone\source\repos\DataTableTest\DataTableTest\obj\Debug\netcoreapp2.2\DataTableTest.AssemblyInfoInputs.cache
+C:\Users\cjone\source\repos\DataTableTest\DataTableTest\obj\Debug\netcoreapp2.2\DataTableTest.AssemblyInfo.cs
+C:\Users\cjone\source\repos\DataTableTest\DataTableTest\obj\Debug\netcoreapp2.2\DataTableTest.dll
+C:\Users\cjone\source\repos\DataTableTest\DataTableTest\obj\Debug\netcoreapp2.2\DataTableTest.pdb

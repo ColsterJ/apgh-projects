@@ -1,0 +1,11 @@
+C:\Users\cjone\source\repos\SaunteringSnakeAlbumApp\SaunteringSnakeAlbumApp\bin\Debug\netcoreapp2.2\SaunteringSnakeAlbumApp.deps.json
+C:\Users\cjone\source\repos\SaunteringSnakeAlbumApp\SaunteringSnakeAlbumApp\bin\Debug\netcoreapp2.2\SaunteringSnakeAlbumApp.runtimeconfig.json
+C:\Users\cjone\source\repos\SaunteringSnakeAlbumApp\SaunteringSnakeAlbumApp\bin\Debug\netcoreapp2.2\SaunteringSnakeAlbumApp.runtimeconfig.dev.json
+C:\Users\cjone\source\repos\SaunteringSnakeAlbumApp\SaunteringSnakeAlbumApp\bin\Debug\netcoreapp2.2\SaunteringSnakeAlbumApp.dll
+C:\Users\cjone\source\repos\SaunteringSnakeAlbumApp\SaunteringSnakeAlbumApp\bin\Debug\netcoreapp2.2\SaunteringSnakeAlbumApp.pdb
+C:\Users\cjone\source\repos\SaunteringSnakeAlbumApp\SaunteringSnakeAlbumApp\obj\Debug\netcoreapp2.2\SaunteringSnakeAlbumApp.csprojAssemblyReference.cache
+C:\Users\cjone\source\repos\SaunteringSnakeAlbumApp\SaunteringSnakeAlbumApp\obj\Debug\netcoreapp2.2\SaunteringSnakeAlbumApp.csproj.CoreCompileInputs.cache
+C:\Users\cjone\source\repos\SaunteringSnakeAlbumApp\SaunteringSnakeAlbumApp\obj\Debug\netcoreapp2.2\SaunteringSnakeAlbumApp.AssemblyInfoInputs.cache
+C:\Users\cjone\source\repos\SaunteringSnakeAlbumApp\SaunteringSnakeAlbumApp\obj\Debug\netcoreapp2.2\SaunteringSnakeAlbumApp.AssemblyInfo.cs
+C:\Users\cjone\source\repos\SaunteringSnakeAlbumApp\SaunteringSnakeAlbumApp\obj\Debug\netcoreapp2.2\SaunteringSnakeAlbumApp.dll
+C:\Users\cjone\source\repos\SaunteringSnakeAlbumApp\SaunteringSnakeAlbumApp\obj\Debug\netcoreapp2.2\SaunteringSnakeAlbumApp.pdb

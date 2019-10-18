@@ -1,0 +1,11 @@
+C:\Users\cjone\source\repos\JesseRandomizerPlus\JesseRandomizerPlus\bin\Debug\netcoreapp2.2\JesseRandomizerPlus.deps.json
+C:\Users\cjone\source\repos\JesseRandomizerPlus\JesseRandomizerPlus\bin\Debug\netcoreapp2.2\JesseRandomizerPlus.runtimeconfig.json
+C:\Users\cjone\source\repos\JesseRandomizerPlus\JesseRandomizerPlus\bin\Debug\netcoreapp2.2\JesseRandomizerPlus.runtimeconfig.dev.json
+C:\Users\cjone\source\repos\JesseRandomizerPlus\JesseRandomizerPlus\bin\Debug\netcoreapp2.2\JesseRandomizerPlus.dll
+C:\Users\cjone\source\repos\JesseRandomizerPlus\JesseRandomizerPlus\bin\Debug\netcoreapp2.2\JesseRandomizerPlus.pdb
+C:\Users\cjone\source\repos\JesseRandomizerPlus\JesseRandomizerPlus\obj\Debug\netcoreapp2.2\JesseRandomizerPlus.csprojAssemblyReference.cache
+C:\Users\cjone\source\repos\JesseRandomizerPlus\JesseRandomizerPlus\obj\Debug\netcoreapp2.2\JesseRandomizerPlus.csproj.CoreCompileInputs.cache
+C:\Users\cjone\source\repos\JesseRandomizerPlus\JesseRandomizerPlus\obj\Debug\netcoreapp2.2\JesseRandomizerPlus.AssemblyInfoInputs.cache
+C:\Users\cjone\source\repos\JesseRandomizerPlus\JesseRandomizerPlus\obj\Debug\netcoreapp2.2\JesseRandomizerPlus.AssemblyInfo.cs
+C:\Users\cjone\source\repos\JesseRandomizerPlus\JesseRandomizerPlus\obj\Debug\netcoreapp2.2\JesseRandomizerPlus.dll
+C:\Users\cjone\source\repos\JesseRandomizerPlus\JesseRandomizerPlus\obj\Debug\netcoreapp2.2\JesseRandomizerPlus.pdb

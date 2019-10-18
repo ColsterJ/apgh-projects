@@ -1,0 +1,10 @@
+C:\Users\cjone\source\repos\HelloWorldSession9\HelloWorldSession9\bin\Release\netcoreapp2.2\HelloWorldSession9.deps.json
+C:\Users\cjone\source\repos\HelloWorldSession9\HelloWorldSession9\bin\Release\netcoreapp2.2\HelloWorldSession9.runtimeconfig.json
+C:\Users\cjone\source\repos\HelloWorldSession9\HelloWorldSession9\bin\Release\netcoreapp2.2\HelloWorldSession9.runtimeconfig.dev.json
+C:\Users\cjone\source\repos\HelloWorldSession9\HelloWorldSession9\bin\Release\netcoreapp2.2\HelloWorldSession9.dll
+C:\Users\cjone\source\repos\HelloWorldSession9\HelloWorldSession9\bin\Release\netcoreapp2.2\HelloWorldSession9.pdb
+C:\Users\cjone\source\repos\HelloWorldSession9\HelloWorldSession9\obj\Release\netcoreapp2.2\HelloWorldSession9.csproj.CoreCompileInputs.cache
+C:\Users\cjone\source\repos\HelloWorldSession9\HelloWorldSession9\obj\Release\netcoreapp2.2\HelloWorldSession9.AssemblyInfoInputs.cache
+C:\Users\cjone\source\repos\HelloWorldSession9\HelloWorldSession9\obj\Release\netcoreapp2.2\HelloWorldSession9.AssemblyInfo.cs
+C:\Users\cjone\source\repos\HelloWorldSession9\HelloWorldSession9\obj\Release\netcoreapp2.2\HelloWorldSession9.dll
+C:\Users\cjone\source\repos\HelloWorldSession9\HelloWorldSession9\obj\Release\netcoreapp2.2\HelloWorldSession9.pdb

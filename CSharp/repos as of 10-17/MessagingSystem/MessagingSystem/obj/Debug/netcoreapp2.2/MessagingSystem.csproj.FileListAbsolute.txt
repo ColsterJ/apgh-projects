@@ -1,0 +1,11 @@
+C:\Users\cjone\source\repos\MessagingSystem\MessagingSystem\bin\Debug\netcoreapp2.2\MessagingSystem.deps.json
+C:\Users\cjone\source\repos\MessagingSystem\MessagingSystem\bin\Debug\netcoreapp2.2\MessagingSystem.runtimeconfig.json
+C:\Users\cjone\source\repos\MessagingSystem\MessagingSystem\bin\Debug\netcoreapp2.2\MessagingSystem.runtimeconfig.dev.json
+C:\Users\cjone\source\repos\MessagingSystem\MessagingSystem\bin\Debug\netcoreapp2.2\MessagingSystem.dll
+C:\Users\cjone\source\repos\MessagingSystem\MessagingSystem\bin\Debug\netcoreapp2.2\MessagingSystem.pdb
+C:\Users\cjone\source\repos\MessagingSystem\MessagingSystem\obj\Debug\netcoreapp2.2\MessagingSystem.csprojAssemblyReference.cache
+C:\Users\cjone\source\repos\MessagingSystem\MessagingSystem\obj\Debug\netcoreapp2.2\MessagingSystem.csproj.CoreCompileInputs.cache
+C:\Users\cjone\source\repos\MessagingSystem\MessagingSystem\obj\Debug\netcoreapp2.2\MessagingSystem.AssemblyInfoInputs.cache
+C:\Users\cjone\source\repos\MessagingSystem\MessagingSystem\obj\Debug\netcoreapp2.2\MessagingSystem.AssemblyInfo.cs
+C:\Users\cjone\source\repos\MessagingSystem\MessagingSystem\obj\Debug\netcoreapp2.2\MessagingSystem.dll
+C:\Users\cjone\source\repos\MessagingSystem\MessagingSystem\obj\Debug\netcoreapp2.2\MessagingSystem.pdb

@@ -1,0 +1,10 @@
+C:\Users\cjone\source\repos\ListAndArray\ListAndArray\bin\Debug\netcoreapp2.2\ListAndArray.deps.json
+C:\Users\cjone\source\repos\ListAndArray\ListAndArray\bin\Debug\netcoreapp2.2\ListAndArray.runtimeconfig.json
+C:\Users\cjone\source\repos\ListAndArray\ListAndArray\bin\Debug\netcoreapp2.2\ListAndArray.runtimeconfig.dev.json
+C:\Users\cjone\source\repos\ListAndArray\ListAndArray\bin\Debug\netcoreapp2.2\ListAndArray.dll
+C:\Users\cjone\source\repos\ListAndArray\ListAndArray\bin\Debug\netcoreapp2.2\ListAndArray.pdb
+C:\Users\cjone\source\repos\ListAndArray\ListAndArray\obj\Debug\netcoreapp2.2\ListAndArray.csproj.CoreCompileInputs.cache
+C:\Users\cjone\source\repos\ListAndArray\ListAndArray\obj\Debug\netcoreapp2.2\ListAndArray.AssemblyInfoInputs.cache
+C:\Users\cjone\source\repos\ListAndArray\ListAndArray\obj\Debug\netcoreapp2.2\ListAndArray.AssemblyInfo.cs
+C:\Users\cjone\source\repos\ListAndArray\ListAndArray\obj\Debug\netcoreapp2.2\ListAndArray.dll
+C:\Users\cjone\source\repos\ListAndArray\ListAndArray\obj\Debug\netcoreapp2.2\ListAndArray.pdb

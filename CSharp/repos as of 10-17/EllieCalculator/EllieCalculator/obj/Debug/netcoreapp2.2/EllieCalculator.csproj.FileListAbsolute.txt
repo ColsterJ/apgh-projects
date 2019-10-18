@@ -1,0 +1,11 @@
+C:\Users\cjone\source\repos\EllieCalculator\EllieCalculator\bin\Debug\netcoreapp2.2\EllieCalculator.deps.json
+C:\Users\cjone\source\repos\EllieCalculator\EllieCalculator\bin\Debug\netcoreapp2.2\EllieCalculator.runtimeconfig.json
+C:\Users\cjone\source\repos\EllieCalculator\EllieCalculator\bin\Debug\netcoreapp2.2\EllieCalculator.runtimeconfig.dev.json
+C:\Users\cjone\source\repos\EllieCalculator\EllieCalculator\bin\Debug\netcoreapp2.2\EllieCalculator.dll
+C:\Users\cjone\source\repos\EllieCalculator\EllieCalculator\bin\Debug\netcoreapp2.2\EllieCalculator.pdb
+C:\Users\cjone\source\repos\EllieCalculator\EllieCalculator\obj\Debug\netcoreapp2.2\EllieCalculator.csprojAssemblyReference.cache
+C:\Users\cjone\source\repos\EllieCalculator\EllieCalculator\obj\Debug\netcoreapp2.2\EllieCalculator.csproj.CoreCompileInputs.cache
+C:\Users\cjone\source\repos\EllieCalculator\EllieCalculator\obj\Debug\netcoreapp2.2\EllieCalculator.AssemblyInfoInputs.cache
+C:\Users\cjone\source\repos\EllieCalculator\EllieCalculator\obj\Debug\netcoreapp2.2\EllieCalculator.AssemblyInfo.cs
+C:\Users\cjone\source\repos\EllieCalculator\EllieCalculator\obj\Debug\netcoreapp2.2\EllieCalculator.dll
+C:\Users\cjone\source\repos\EllieCalculator\EllieCalculator\obj\Debug\netcoreapp2.2\EllieCalculator.pdb

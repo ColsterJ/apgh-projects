@@ -1,0 +1,11 @@
+C:\Users\cjone\source\repos\ArrayPractice\ArrayPractice\bin\Debug\netcoreapp2.2\ArrayPractice.deps.json
+C:\Users\cjone\source\repos\ArrayPractice\ArrayPractice\bin\Debug\netcoreapp2.2\ArrayPractice.runtimeconfig.json
+C:\Users\cjone\source\repos\ArrayPractice\ArrayPractice\bin\Debug\netcoreapp2.2\ArrayPractice.runtimeconfig.dev.json
+C:\Users\cjone\source\repos\ArrayPractice\ArrayPractice\bin\Debug\netcoreapp2.2\ArrayPractice.dll
+C:\Users\cjone\source\repos\ArrayPractice\ArrayPractice\bin\Debug\netcoreapp2.2\ArrayPractice.pdb
+C:\Users\cjone\source\repos\ArrayPractice\ArrayPractice\obj\Debug\netcoreapp2.2\ArrayPractice.csprojAssemblyReference.cache
+C:\Users\cjone\source\repos\ArrayPractice\ArrayPractice\obj\Debug\netcoreapp2.2\ArrayPractice.csproj.CoreCompileInputs.cache
+C:\Users\cjone\source\repos\ArrayPractice\ArrayPractice\obj\Debug\netcoreapp2.2\ArrayPractice.AssemblyInfoInputs.cache
+C:\Users\cjone\source\repos\ArrayPractice\ArrayPractice\obj\Debug\netcoreapp2.2\ArrayPractice.AssemblyInfo.cs
+C:\Users\cjone\source\repos\ArrayPractice\ArrayPractice\obj\Debug\netcoreapp2.2\ArrayPractice.dll
+C:\Users\cjone\source\repos\ArrayPractice\ArrayPractice\obj\Debug\netcoreapp2.2\ArrayPractice.pdb

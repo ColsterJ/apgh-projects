@@ -1,0 +1,11 @@
+C:\Users\cjone\source\repos\FieldPaintAgain\FieldPaintAgain\bin\Debug\netcoreapp2.2\FieldPaintAgain.deps.json
+C:\Users\cjone\source\repos\FieldPaintAgain\FieldPaintAgain\bin\Debug\netcoreapp2.2\FieldPaintAgain.runtimeconfig.json
+C:\Users\cjone\source\repos\FieldPaintAgain\FieldPaintAgain\bin\Debug\netcoreapp2.2\FieldPaintAgain.runtimeconfig.dev.json
+C:\Users\cjone\source\repos\FieldPaintAgain\FieldPaintAgain\bin\Debug\netcoreapp2.2\FieldPaintAgain.dll
+C:\Users\cjone\source\repos\FieldPaintAgain\FieldPaintAgain\bin\Debug\netcoreapp2.2\FieldPaintAgain.pdb
+C:\Users\cjone\source\repos\FieldPaintAgain\FieldPaintAgain\obj\Debug\netcoreapp2.2\FieldPaintAgain.csprojAssemblyReference.cache
+C:\Users\cjone\source\repos\FieldPaintAgain\FieldPaintAgain\obj\Debug\netcoreapp2.2\FieldPaintAgain.csproj.CoreCompileInputs.cache
+C:\Users\cjone\source\repos\FieldPaintAgain\FieldPaintAgain\obj\Debug\netcoreapp2.2\FieldPaintAgain.AssemblyInfoInputs.cache
+C:\Users\cjone\source\repos\FieldPaintAgain\FieldPaintAgain\obj\Debug\netcoreapp2.2\FieldPaintAgain.AssemblyInfo.cs
+C:\Users\cjone\source\repos\FieldPaintAgain\FieldPaintAgain\obj\Debug\netcoreapp2.2\FieldPaintAgain.dll
+C:\Users\cjone\source\repos\FieldPaintAgain\FieldPaintAgain\obj\Debug\netcoreapp2.2\FieldPaintAgain.pdb

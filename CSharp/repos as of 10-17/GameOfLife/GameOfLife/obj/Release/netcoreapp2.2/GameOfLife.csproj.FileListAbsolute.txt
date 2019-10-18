@@ -1,0 +1,11 @@
+C:\Users\cjone\source\repos\GameOfLife\GameOfLife\bin\Release\netcoreapp2.2\GameOfLife.deps.json
+C:\Users\cjone\source\repos\GameOfLife\GameOfLife\bin\Release\netcoreapp2.2\GameOfLife.runtimeconfig.json
+C:\Users\cjone\source\repos\GameOfLife\GameOfLife\bin\Release\netcoreapp2.2\GameOfLife.runtimeconfig.dev.json
+C:\Users\cjone\source\repos\GameOfLife\GameOfLife\bin\Release\netcoreapp2.2\GameOfLife.dll
+C:\Users\cjone\source\repos\GameOfLife\GameOfLife\bin\Release\netcoreapp2.2\GameOfLife.pdb
+C:\Users\cjone\source\repos\GameOfLife\GameOfLife\obj\Release\netcoreapp2.2\GameOfLife.csprojAssemblyReference.cache
+C:\Users\cjone\source\repos\GameOfLife\GameOfLife\obj\Release\netcoreapp2.2\GameOfLife.csproj.CoreCompileInputs.cache
+C:\Users\cjone\source\repos\GameOfLife\GameOfLife\obj\Release\netcoreapp2.2\GameOfLife.AssemblyInfoInputs.cache
+C:\Users\cjone\source\repos\GameOfLife\GameOfLife\obj\Release\netcoreapp2.2\GameOfLife.AssemblyInfo.cs
+C:\Users\cjone\source\repos\GameOfLife\GameOfLife\obj\Release\netcoreapp2.2\GameOfLife.dll
+C:\Users\cjone\source\repos\GameOfLife\GameOfLife\obj\Release\netcoreapp2.2\GameOfLife.pdb

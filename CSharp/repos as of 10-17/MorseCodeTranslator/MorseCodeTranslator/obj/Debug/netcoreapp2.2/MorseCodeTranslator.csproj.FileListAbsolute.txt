@@ -1,0 +1,11 @@
+C:\Users\cjone\source\repos\MorseCodeTranslator\MorseCodeTranslator\bin\Debug\netcoreapp2.2\MorseCodeTranslator.deps.json
+C:\Users\cjone\source\repos\MorseCodeTranslator\MorseCodeTranslator\bin\Debug\netcoreapp2.2\MorseCodeTranslator.runtimeconfig.json
+C:\Users\cjone\source\repos\MorseCodeTranslator\MorseCodeTranslator\bin\Debug\netcoreapp2.2\MorseCodeTranslator.runtimeconfig.dev.json
+C:\Users\cjone\source\repos\MorseCodeTranslator\MorseCodeTranslator\bin\Debug\netcoreapp2.2\MorseCodeTranslator.dll
+C:\Users\cjone\source\repos\MorseCodeTranslator\MorseCodeTranslator\bin\Debug\netcoreapp2.2\MorseCodeTranslator.pdb
+C:\Users\cjone\source\repos\MorseCodeTranslator\MorseCodeTranslator\obj\Debug\netcoreapp2.2\MorseCodeTranslator.csprojAssemblyReference.cache
+C:\Users\cjone\source\repos\MorseCodeTranslator\MorseCodeTranslator\obj\Debug\netcoreapp2.2\MorseCodeTranslator.csproj.CoreCompileInputs.cache
+C:\Users\cjone\source\repos\MorseCodeTranslator\MorseCodeTranslator\obj\Debug\netcoreapp2.2\MorseCodeTranslator.AssemblyInfoInputs.cache
+C:\Users\cjone\source\repos\MorseCodeTranslator\MorseCodeTranslator\obj\Debug\netcoreapp2.2\MorseCodeTranslator.AssemblyInfo.cs
+C:\Users\cjone\source\repos\MorseCodeTranslator\MorseCodeTranslator\obj\Debug\netcoreapp2.2\MorseCodeTranslator.dll
+C:\Users\cjone\source\repos\MorseCodeTranslator\MorseCodeTranslator\obj\Debug\netcoreapp2.2\MorseCodeTranslator.pdb

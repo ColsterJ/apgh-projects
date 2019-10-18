@@ -1,0 +1,11 @@
+C:\Users\cjone\source\repos\EllieTemplateGenerator\EllieTemplateGenerator\bin\Debug\netcoreapp2.2\EllieTemplateGenerator.deps.json
+C:\Users\cjone\source\repos\EllieTemplateGenerator\EllieTemplateGenerator\bin\Debug\netcoreapp2.2\EllieTemplateGenerator.runtimeconfig.json
+C:\Users\cjone\source\repos\EllieTemplateGenerator\EllieTemplateGenerator\bin\Debug\netcoreapp2.2\EllieTemplateGenerator.runtimeconfig.dev.json
+C:\Users\cjone\source\repos\EllieTemplateGenerator\EllieTemplateGenerator\bin\Debug\netcoreapp2.2\EllieTemplateGenerator.dll
+C:\Users\cjone\source\repos\EllieTemplateGenerator\EllieTemplateGenerator\bin\Debug\netcoreapp2.2\EllieTemplateGenerator.pdb
+C:\Users\cjone\source\repos\EllieTemplateGenerator\EllieTemplateGenerator\obj\Debug\netcoreapp2.2\EllieTemplateGenerator.csprojAssemblyReference.cache
+C:\Users\cjone\source\repos\EllieTemplateGenerator\EllieTemplateGenerator\obj\Debug\netcoreapp2.2\EllieTemplateGenerator.csproj.CoreCompileInputs.cache
+C:\Users\cjone\source\repos\EllieTemplateGenerator\EllieTemplateGenerator\obj\Debug\netcoreapp2.2\EllieTemplateGenerator.AssemblyInfoInputs.cache
+C:\Users\cjone\source\repos\EllieTemplateGenerator\EllieTemplateGenerator\obj\Debug\netcoreapp2.2\EllieTemplateGenerator.AssemblyInfo.cs
+C:\Users\cjone\source\repos\EllieTemplateGenerator\EllieTemplateGenerator\obj\Debug\netcoreapp2.2\EllieTemplateGenerator.dll
+C:\Users\cjone\source\repos\EllieTemplateGenerator\EllieTemplateGenerator\obj\Debug\netcoreapp2.2\EllieTemplateGenerator.pdb

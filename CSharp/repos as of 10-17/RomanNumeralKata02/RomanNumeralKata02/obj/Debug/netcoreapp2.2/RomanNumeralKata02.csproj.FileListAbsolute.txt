@@ -1,0 +1,11 @@
+C:\Users\cjone\source\repos\RomanNumeralKata02\RomanNumeralKata02\bin\Debug\netcoreapp2.2\RomanNumeralKata02.deps.json
+C:\Users\cjone\source\repos\RomanNumeralKata02\RomanNumeralKata02\bin\Debug\netcoreapp2.2\RomanNumeralKata02.runtimeconfig.json
+C:\Users\cjone\source\repos\RomanNumeralKata02\RomanNumeralKata02\bin\Debug\netcoreapp2.2\RomanNumeralKata02.runtimeconfig.dev.json
+C:\Users\cjone\source\repos\RomanNumeralKata02\RomanNumeralKata02\bin\Debug\netcoreapp2.2\RomanNumeralKata02.dll
+C:\Users\cjone\source\repos\RomanNumeralKata02\RomanNumeralKata02\bin\Debug\netcoreapp2.2\RomanNumeralKata02.pdb
+C:\Users\cjone\source\repos\RomanNumeralKata02\RomanNumeralKata02\obj\Debug\netcoreapp2.2\RomanNumeralKata02.csprojAssemblyReference.cache
+C:\Users\cjone\source\repos\RomanNumeralKata02\RomanNumeralKata02\obj\Debug\netcoreapp2.2\RomanNumeralKata02.csproj.CoreCompileInputs.cache
+C:\Users\cjone\source\repos\RomanNumeralKata02\RomanNumeralKata02\obj\Debug\netcoreapp2.2\RomanNumeralKata02.AssemblyInfoInputs.cache
+C:\Users\cjone\source\repos\RomanNumeralKata02\RomanNumeralKata02\obj\Debug\netcoreapp2.2\RomanNumeralKata02.AssemblyInfo.cs
+C:\Users\cjone\source\repos\RomanNumeralKata02\RomanNumeralKata02\obj\Debug\netcoreapp2.2\RomanNumeralKata02.dll
+C:\Users\cjone\source\repos\RomanNumeralKata02\RomanNumeralKata02\obj\Debug\netcoreapp2.2\RomanNumeralKata02.pdb

@@ -1,0 +1,11 @@
+C:\Users\cjone\source\repos\JeanHopperCalculator\JeanHopperCalculator\bin\Debug\netcoreapp2.2\JeanHopperCalculator.deps.json
+C:\Users\cjone\source\repos\JeanHopperCalculator\JeanHopperCalculator\bin\Debug\netcoreapp2.2\JeanHopperCalculator.runtimeconfig.json
+C:\Users\cjone\source\repos\JeanHopperCalculator\JeanHopperCalculator\bin\Debug\netcoreapp2.2\JeanHopperCalculator.runtimeconfig.dev.json
+C:\Users\cjone\source\repos\JeanHopperCalculator\JeanHopperCalculator\bin\Debug\netcoreapp2.2\JeanHopperCalculator.dll
+C:\Users\cjone\source\repos\JeanHopperCalculator\JeanHopperCalculator\bin\Debug\netcoreapp2.2\JeanHopperCalculator.pdb
+C:\Users\cjone\source\repos\JeanHopperCalculator\JeanHopperCalculator\obj\Debug\netcoreapp2.2\JeanHopperCalculator.csprojAssemblyReference.cache
+C:\Users\cjone\source\repos\JeanHopperCalculator\JeanHopperCalculator\obj\Debug\netcoreapp2.2\JeanHopperCalculator.csproj.CoreCompileInputs.cache
+C:\Users\cjone\source\repos\JeanHopperCalculator\JeanHopperCalculator\obj\Debug\netcoreapp2.2\JeanHopperCalculator.AssemblyInfoInputs.cache
+C:\Users\cjone\source\repos\JeanHopperCalculator\JeanHopperCalculator\obj\Debug\netcoreapp2.2\JeanHopperCalculator.AssemblyInfo.cs
+C:\Users\cjone\source\repos\JeanHopperCalculator\JeanHopperCalculator\obj\Debug\netcoreapp2.2\JeanHopperCalculator.dll
+C:\Users\cjone\source\repos\JeanHopperCalculator\JeanHopperCalculator\obj\Debug\netcoreapp2.2\JeanHopperCalculator.pdb
